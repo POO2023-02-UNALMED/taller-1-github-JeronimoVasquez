@@ -1,1 +1,2 @@
-Se puede hacer commit porque no se crea una carpeta vacia
+Jerónimo, tengo 19, espero adquirir habilidades útiles para la vida profesional.
+Se puede hacer commit porque no es una carpeta vacia
