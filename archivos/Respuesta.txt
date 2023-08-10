@@ -1,0 +1,1 @@
+Si se crea una carpeta vacía no se puede realizar un commit
